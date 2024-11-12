@@ -79,6 +79,9 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
 
     public void wedding()
     {
+        /*
+        This function wedding all the views
+         */
         lv1 = (ListView) findViewById(R.id.lv1);
         spin1 = (Spinner) findViewById(R.id.spin1);
         tv1 = (TextView) findViewById(R.id.tv1);
